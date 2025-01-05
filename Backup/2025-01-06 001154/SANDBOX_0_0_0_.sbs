@@ -10,7 +10,7 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>2359790</ActivationTimeMs>
+        <ActivationTimeMs>2365790</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
@@ -2134,7 +2134,7 @@
                       <Z>0</Z>
                     </RunAwayDirection>
                     <LastPosition xsi:nil="true" />
-                    <RunAwayStartedFrame>-8981825</RunAwayStartedFrame>
+                    <RunAwayStartedFrame>-8981489</RunAwayStartedFrame>
                   </HitAndRunState>
                 </Component>
               </ComponentData>
@@ -4297,7 +4297,7 @@
                       <Z>0</Z>
                     </RunAwayDirection>
                     <LastPosition xsi:nil="true" />
-                    <RunAwayStartedFrame>-46271</RunAwayStartedFrame>
+                    <RunAwayStartedFrame>-45935</RunAwayStartedFrame>
                   </HitAndRunState>
                 </Component>
               </ComponentData>
@@ -6113,7 +6113,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.746250749</CurrentStoredPower>
+          <CurrentStoredPower>0.7462767</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -6751,7 +6751,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -8573,7 +8573,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -9023,7 +9023,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.9999992</CurrentStoredPower>
+          <CurrentStoredPower>0.99999994</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -10053,7 +10053,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -10614,7 +10614,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99999952</CurrentStoredPower>
+          <CurrentStoredPower>3</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -11072,7 +11072,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>60</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -11194,7 +11194,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -11831,7 +11831,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -12084,7 +12084,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>40</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -12380,7 +12380,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>30</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -13544,7 +13544,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.999996</CurrentStoredPower>
+          <CurrentStoredPower>0.9999998</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -13964,7 +13964,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -15382,7 +15382,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                       <B>0</B>
                       <A>255</A>
                     </BackgroundColor>
-                    <CurrentShownTexture>1</CurrentShownTexture>
+                    <CurrentShownTexture>0</CurrentShownTexture>
                     <ContentType>TEXT_AND_IMAGE</ContentType>
                     <SelectedScript />
                     <TextPadding>2</TextPadding>
@@ -52785,7 +52785,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
         <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
       </Inventory>
       <Battery>
-        <CurrentCapacity>9.406487E-06</CurrentCapacity>
+        <CurrentCapacity>9.471301E-06</CurrentCapacity>
         <RegenEffects />
       </Battery>
       <LightEnabled>false</LightEnabled>
@@ -52799,7 +52799,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
       <DisplayName>Iridium</DisplayName>
       <IsInFirstPersonView>false</IsInFirstPersonView>
       <EnableBroadcasting>true</EnableBroadcasting>
-      <OxygenLevel>0.961461663</OxygenLevel>
+      <OxygenLevel>0.9656595</OxygenLevel>
       <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
       <StoredGases>
         <StoredGas>
@@ -52808,7 +52808,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
         </StoredGas>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-          <FillLevel>0.961461663</FillLevel>
+          <FillLevel>0.9656595</FillLevel>
         </StoredGas>
       </StoredGases>
       <EnabledComponents>
@@ -67667,7 +67667,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                       <Z>0</Z>
                     </RunAwayDirection>
                     <LastPosition xsi:nil="true" />
-                    <RunAwayStartedFrame>-8981580</RunAwayStartedFrame>
+                    <RunAwayStartedFrame>-8981244</RunAwayStartedFrame>
                   </HitAndRunState>
                 </Component>
               </ComponentData>
@@ -69830,7 +69830,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
                       <Z>0</Z>
                     </RunAwayDirection>
                     <LastPosition xsi:nil="true" />
-                    <RunAwayStartedFrame>-46028</RunAwayStartedFrame>
+                    <RunAwayStartedFrame>-45692</RunAwayStartedFrame>
                   </HitAndRunState>
                 </Component>
               </ComponentData>
@@ -71125,7 +71125,7 @@ GPS:DVHN - Station:1036510.48544939:191573.415185869:1620790.09771726:#FF75C9F1:
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.0499673</CurrentStoredPower>
+          <CurrentStoredPower>0.0499678925</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>

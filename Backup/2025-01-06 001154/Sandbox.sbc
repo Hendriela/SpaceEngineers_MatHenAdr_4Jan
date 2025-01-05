@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>294917760000</ElapsedGameTime>
+  <ElapsedGameTime>294864000000</ElapsedGameTime>
   <SessionName>Multiplayer__MatHenAdr_4Jan</SessionName>
   <SpectatorPosition>
     <Position x="1058693.7866273418" y="187890.18198082727" z="1633231.7747689302" />
@@ -21,7 +21,7 @@
   <ControlledObject>94341481508398385</ControlledObject>
   <Password />
   <Description>One of the most popular worlds in Space Engineers, featuring several planets for you to build, explore, and survive on. Customize the settings and play to your heart’s content!</Description>
-  <LastSaveTime>2025-01-06T00:11:58.9119975+01:00</LastSaveTime>
+  <LastSaveTime>2025-01-06T00:11:53.3128477+01:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -29784,7 +29784,7 @@
       <SavedCharacters>
         <long>94341481508398385</long>
       </SavedCharacters>
-      <LastLogoutTime>2025-01-06T00:11:58.9119975+01:00</LastLogoutTime>
+      <LastLogoutTime>2025-01-06T00:11:53.3128477+01:00</LastLogoutTime>
       <RespawnShips>
         <long>82540914953041976</long>
       </RespawnShips>
@@ -31681,21 +31681,21 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0" y="0" z="1" />
-      <SunDirectionNormalized x="0.5676746" y="0" z="0.823253036" />
+      <SunDirectionNormalized x="0.5638056" y="0" z="0.8259075" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6525117208432977790</PlanetId>
-          <NextWeather>45527</NextWeather>
+          <NextWeather>45856</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7376538848170297803</PlanetId>
-          <NextWeather>58808</NextWeather>
+          <NextWeather>59137</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6409848419840584595</PlanetId>
-          <NextWeather>140756</NextWeather>
+          <NextWeather>141085</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
@@ -31705,22 +31705,22 @@
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>3868533696819502467</PlanetId>
-          <NextWeather>142977</NextWeather>
+          <NextWeather>143306</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-6999989728267602142</PlanetId>
-          <NextWeather>20634</NextWeather>
+          <NextWeather>20963</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7227078719122709097</PlanetId>
-          <NextWeather>43432</NextWeather>
+          <NextWeather>43761</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6902088205773520807</PlanetId>
-          <NextWeather>23156</NextWeather>
+          <NextWeather>23485</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
       </WeatherPlanetData>
@@ -31734,7 +31734,7 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855897</PlayerId>
-          <Timer>595</Timer>
+          <Timer>600</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -31748,7 +31748,7 @@
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855921</PlayerId>
-          <Timer>1020</Timer>
+          <Timer>1025</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -31757,7 +31757,7 @@
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>623</TimeLeft>
+          <TimeLeft>629</TimeLeft>
           <EntityId>88523951792888758</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
@@ -55237,7 +55237,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>10567</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>4967</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
