@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>415239200000</ElapsedGameTime>
+  <ElapsedGameTime>411974880000</ElapsedGameTime>
   <SessionName>Multiplayer__MatHenAdr_4Jan</SessionName>
   <SpectatorPosition>
     <Position x="1058693.7866273427" y="187890.18198082826" z="1633231.7747689302" />
@@ -21,7 +21,7 @@
   <ControlledObject>94341481508398385</ControlledObject>
   <Password />
   <Description>One of the most popular worlds in Space Engineers, featuring several planets for you to build, explore, and survive on. Customize the settings and play to your heart’s content!</Description>
-  <LastSaveTime>2025-01-10T01:18:53.4539021+01:00</LastSaveTime>
+  <LastSaveTime>2025-01-10T01:13:12.802922+01:00</LastSaveTime>
   <SpectatorDistance>15.4793472</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -29841,7 +29841,7 @@
       <SavedCharacters>
         <long>94341481508398385</long>
       </SavedCharacters>
-      <LastLogoutTime>2025-01-10T01:18:53.4539021+01:00</LastLogoutTime>
+      <LastLogoutTime>2025-01-10T01:13:12.8039221+01:00</LastLogoutTime>
       <RespawnShips>
         <long>82540914953041976</long>
       </RespawnShips>
@@ -31103,9 +31103,9 @@
               <name>Unidentified Signal</name>
               <description />
               <coords>
-                <X>5359185.3702205271</X>
-                <Y>-3364067.6699607451</Y>
-                <Z>-5621115.9509395435</Z>
+                <X>5359160.8607600778</X>
+                <Y>-3364437.1335685332</Y>
+                <Z>-5620906.5980647877</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -31245,9 +31245,9 @@
               <name>Unidentified Signal</name>
               <description />
               <coords>
-                <X>5359185.3702205271</X>
-                <Y>-3364067.6699607451</Y>
-                <Z>-5621115.9509395435</Z>
+                <X>5359160.8607600778</X>
+                <Y>-3364437.1335685332</Y>
+                <Z>-5620906.5980647877</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -31488,9 +31488,9 @@
               <name>Unknown Signal 48</name>
               <description />
               <coords>
-                <X>1055407.2299100973</X>
-                <Y>187262.35804018605</Y>
-                <Z>1634642.6708202581</Z>
+                <X>1055431.0666578331</X>
+                <Y>187317.07378077734</Y>
+                <Z>1634646.1646543662</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -31522,9 +31522,9 @@
               <name>Unidentified Signal</name>
               <description />
               <coords>
-                <X>5359185.3702205271</X>
-                <Y>-3364067.6699607451</Y>
-                <Z>-5621115.9509395435</Z>
+                <X>5359160.8607600778</X>
+                <Y>-3364437.1335685332</Y>
+                <Z>-5620906.5980647877</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -31754,7 +31754,7 @@
         <dictionary>
           <item>
             <Key>1198151584399187181</Key>
-            <Value>15</Value>
+            <Value>21</Value>
           </item>
         </dictionary>
       </Timers>
@@ -31768,7 +31768,7 @@
           </item>
           <item>
             <Key>122398783073610759</Key>
-            <Value>297420</Value>
+            <Value>277020</Value>
           </item>
           <item>
             <Key>76656875985638889</Key>
@@ -31792,11 +31792,11 @@
           </item>
           <item>
             <Key>99826400664178059</Key>
-            <Value>389640</Value>
+            <Value>369240</Value>
           </item>
           <item>
             <Key>138126045716488525</Key>
-            <Value>389640</Value>
+            <Value>369240</Value>
           </item>
         </dictionary>
       </NPCGrids>
@@ -31857,21 +31857,21 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0" y="0" z="1" />
-      <SunDirectionNormalized x="-0.9941596" y="0" z="0.107920274" />
+      <SunDirectionNormalized x="-0.9844229" y="0" z="-0.175816834" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6525117208432977790</PlanetId>
-          <NextWeather>69750</NextWeather>
+          <NextWeather>90144</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7376538848170297803</PlanetId>
-          <NextWeather>160924</NextWeather>
+          <NextWeather>181318</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6409848419840584595</PlanetId>
-          <NextWeather>51363</NextWeather>
+          <NextWeather>71757</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
@@ -31881,22 +31881,22 @@
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>3868533696819502467</PlanetId>
-          <NextWeather>43211</NextWeather>
+          <NextWeather>63605</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-6999989728267602142</PlanetId>
-          <NextWeather>7618</NextWeather>
+          <NextWeather>6560</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>7227078719122709097</PlanetId>
-          <NextWeather>11454</NextWeather>
+          <NextWeather>31848</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>6902088205773520807</PlanetId>
-          <NextWeather>219267</NextWeather>
+          <NextWeather>239661</NextWeather>
           <Weathers />
         </MyObjectBuilder_WeatherPlanetData>
       </WeatherPlanetData>
@@ -31910,7 +31910,7 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855897</PlayerId>
-          <Timer>648</Timer>
+          <Timer>179</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -31924,7 +31924,7 @@
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855921</PlayerId>
-          <Timer>900</Timer>
+          <Timer>132</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -31933,7 +31933,7 @@
       <GPSForRemoval />
       <EntitiesForRemoval>
         <MyEntityForRemoval>
-          <TimeLeft>521</TimeLeft>
+          <TimeLeft>861</TimeLeft>
           <EntityId>116433255720903707</EntityId>
         </MyEntityForRemoval>
       </EntitiesForRemoval>
@@ -55482,7 +55482,7 @@ You can also change the way signals show up on your HUD.</Data>
           </MultilineData>
         </LineData>
         <Title>Good.bot: HUD</Title>
-        <Visible>true</Visible>
+        <Visible>false</Visible>
         <IsUsedByVisualScripting>false</IsUsedByVisualScripting>
       </Questlog>
       <ExclusiveHighlights>
@@ -55492,7 +55492,7 @@ You can also change the way signals show up on your HUD.</Data>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>62766</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>82766</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -56014,6 +56014,7 @@ You can also change the way signals show up on your HUD.</Data>
     <string>Models\Cubes\Large\UpgradeProductivity.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
+    <string>Models\Components\Sphere.mwm</string>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
     <string>Models\Cubes\Small\Armor\CornerTriangleRightPlate.mwm</string>
